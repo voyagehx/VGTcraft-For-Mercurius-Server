@@ -1,2 +1,2 @@
 # VGTcraft-For-Mercurius-Server
-Mercurius服务器特供版数据包
+VGTcraft的Mercurius服务器特供版，包含原数据包没有的新合成配方。
